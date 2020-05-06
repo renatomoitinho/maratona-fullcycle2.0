@@ -1,0 +1,27 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Exercicio 1 para maratona fullcycle ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatomoitinho/maratona-fullcycle-d1.git"
+  },
+  "keywords": [
+    "maratonaFullcycle",
+    "2.0"
+  ],
+  "author": "Renato moitinho Dias <renatomoitinhodias@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatomoitinho/maratona-fullcycle-d1/issues"
+  },
+  "homepage": "https://github.com/renatomoitinho/maratona-fullcycle-d1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
